@@ -14,6 +14,8 @@ This release contains **496 transparent PNG icons** organized across **18 themed
 | Series folders | 18 |
 | Non-PNG working/source files | 1 |
 | Archive size | 93.63 MB |
+| Archive bytes | 98,177,363 |
+| SHA-256 | `3a5eac7b049f746c5d757b7ed6bca19f399bfd1c89b032bf267de221659d6eb9` |
 | PNG payload size | 93.93 MB |
 | Average PNG size | 193.9 KB |
 
@@ -50,12 +52,19 @@ The goth and ethereal dragon sets were removed from this release candidate becau
 
 ## Repository contents
 
-This repository currently contains the public release metadata, descriptions, and series counts for the icon pack.
+This repository contains the public release metadata, descriptions, series counts, rights notice, and checksum for the icon pack.
 
 The production artwork archive is tracked separately as:
 
 ```text
 Dragon icon pack prerelease.zip
+```
+
+The uploaded archive for this release was verified with:
+
+```text
+SHA-256: 3a5eac7b049f746c5d757b7ed6bca19f399bfd1c89b032bf267de221659d6eb9
+Bytes:   98,177,363
 ```
 
 ## Rights
