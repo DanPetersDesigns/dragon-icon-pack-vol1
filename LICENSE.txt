@@ -1,0 +1,9 @@
+Copyright (c) 2026 Dan Peters Designs
+
+All rights reserved.
+
+The artwork, icon assets, release descriptions, metadata, and related materials in this repository are owned by Dan Peters Designs unless otherwise stated in writing.
+
+No permission is granted to copy, redistribute, resell, repackage, sublicense, train models on, or claim ownership of the artwork or icon assets without written permission from Dan Peters Designs.
+
+This notice may be replaced or supplemented by a separate written license for a specific public release, customer download, or distribution package.
